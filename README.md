@@ -1,7 +1,7 @@
 # Email-App
 Creating email accounts for new hires.
 
-this Application doing all this functionality .
+This Application doing all this functionality .
 
 Generate an email with the following syntax: firstname.lastname@department.company.com 
 Determine the department (sales, development, accounting), if none leave blank 
