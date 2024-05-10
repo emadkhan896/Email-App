@@ -1,6 +1,6 @@
 # Email-App
 Creating email accounts for new hires.
-
+<p>
 This Application doing all this functionality .
 
 Generate an email with the following syntax: firstname.lastname@department.company.com 
@@ -9,3 +9,4 @@ Generate a random String for a password
 Have set methods to change the password, set the mailbox capacity, and define an alternate 
 email address 
 Have get methods to display the name, email, and mailbox capacity.
+</p>
